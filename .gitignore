@@ -1,0 +1,18 @@
+# Local Environment Variables
+.env
+.venv/
+venv/
+env/
+
+# PyCharm / IDE Files
+.idea/
+.vscode/
+*.iml
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
